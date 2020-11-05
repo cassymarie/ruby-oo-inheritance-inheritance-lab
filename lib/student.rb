@@ -1,3 +1,7 @@
-class Student 
+require './user.rb'
+
+class Student < User
+
+
 
 end
